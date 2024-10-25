@@ -2,6 +2,7 @@
 download and start opensearch 2.17 for test
 opensearch start with
 OPENSEARCH_INITIAL_ADMIN_PASSWORD=Thisisa@test123
+
 https://localhost:9200
 
 
